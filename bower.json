@@ -1,0 +1,23 @@
+{
+  "name": "javascript",
+  "authors": [
+    "aziz daaif <a@daaif.net>"
+  ],
+  "description": "Exemples et exercices javascript",
+  "main": "index.html",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.daaif.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
